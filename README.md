@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Oussama sobhi, Im a software engineer student and Im currently learning java.
+My name is Oussama sobhi, Im a software engineer student and Im currently learning java & javascript.
 <!--
 **oussamasobhi/oussamasobhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
