@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-![Github stats](https://github-readme-stats.vercel.app/api?username=oussamasobhi&theme=radical&show_icons=true&count_private=true)
+![](https://visitor-badge.laobi.icu/badge?page_id=oussamasobhi)
+
 
 <p align="center">
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
