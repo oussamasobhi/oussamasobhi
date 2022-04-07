@@ -27,3 +27,4 @@ Im a software engineer student
 https://github-readme-stats.vercel.app/api/top-langs/?username=oussamasobhi&theme=tokyonight
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
