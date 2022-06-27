@@ -23,5 +23,5 @@ Im a software engineer student
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamasobhi&show_icons=true&theme=tokyonight)
-![GitHub Views](https://komarev.com/ghpvc/?username=oussamasobhi&color=FAC151)]
+![GitHub Views](https://komarev.com/ghpvc/?username=oussamasobhi&color=FAC151)
 
