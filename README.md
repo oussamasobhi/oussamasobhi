@@ -23,4 +23,4 @@ Im a software engineer student
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamasobhi&show_icons=true&theme=tokyonight)
-
+![Visitor Count](https://profile-counter.glitch.me/oussamasobhi/count.svg)
