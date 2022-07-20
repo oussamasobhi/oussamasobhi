@@ -2,7 +2,7 @@
 My name is Oussama sobhi
 
 Im a software engineer student
-- 🌱 I’m currently learning java and nodejs
+- 🌱 I’m currently learning nodejs
 
 ## find me on
 
