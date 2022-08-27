@@ -10,9 +10,9 @@
 </p>
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=oussamasobhi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=oussamasobhi" />
   </a>
   <p>
     <img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
