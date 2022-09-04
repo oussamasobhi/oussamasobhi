@@ -29,8 +29,14 @@
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Node.js&color=%233178C6&style=for-the-badge&logo=node.js&logoColor=03256C" alt="Nodejs"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Express.js&color=%23CC6699&style=for-the-badge&logo=express.js&logoColor=whitesmoke" alt="SASS"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=JAVA&color=%233178C6&style=for-the-badge&logo=java&logoColor=03256C" alt="Nodejs"></a>
+    
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C&color=%233178C6&style=for-the-badge&logo=c&logoColor=03256C" alt="Nodejs"></a>
+    
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C++&color=%233178C6&style=for-the-badge&logo=C++&logoColor=03256C" alt="C++"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=JAVA&color=%233178C6&style=for-the-badge&logo=java&logoColor=03256C" alt="java"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=spring&color=%2361DAFB&style=for-the-badge&logo=spring&logoColor=grey" alt="spring"></a>
+    
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=linux&color=%233178C6&style=for-the-badge&logo=node.js&logoColor=03256C" alt="Nodejs"></a>
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
@@ -41,10 +47,10 @@ ___
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://www.linkedin.com/in/oussama-sobhi-3b5b2119a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Codepen&color=%23000000&style=for-the-badge&logo=codepen&logoColor=whitesmoke" alt="Codepen"></a>
     <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="DEV"></a>
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://www.instagram.com/its_oussama_s/?hl=fr" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
 
 
