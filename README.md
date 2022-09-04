@@ -29,7 +29,7 @@
      <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Node.js&color=%233178C6&style=for-the-badge&logo=node.js&logoColor=03256C" alt="Nodejs"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Express.js&color=%23CC6699&style=for-the-badge&logo=express.js&logoColor=whitesmoke" alt="SASS"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C&color=%233178C6&style=for-the-badge&logo=c&logoColor=03256C" alt="Nodejs"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C&color=%233178C6&style=for-the-badge&logo=c&logoColor=03256C" alt="C"></a>
     
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=C++&color=%233178C6&style=for-the-badge&logo=C++&logoColor=03256C" alt="C++"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=JAVA&color=%233178C6&style=for-the-badge&logo=java&logoColor=03256C" alt="java"></a>
