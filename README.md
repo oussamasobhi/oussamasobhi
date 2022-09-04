@@ -46,8 +46,6 @@ ___
 <div>
   <h3>📱 Social Medias:</h3><br>
     <a href="https://www.linkedin.com/in/oussama-sobhi-3b5b2119a/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-   
-    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&message=DEV&color=%230A0A0A&style=for-the-badge&logo=dev.to" alt="DEV"></a>
     <a href="https://www.instagram.com/its_oussama_s/?hl=fr" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
 
