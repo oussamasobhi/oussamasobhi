@@ -18,7 +18,7 @@
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=oussamasobhi&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="oussamasobhi" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamasobhi&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="oussamasobhi" />
 </div>
-    
+   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
 ---
 
 <div>
