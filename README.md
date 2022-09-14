@@ -11,7 +11,7 @@
         <p>• 📚 I’m currently learning: <b> Node.js, Express.js and Spring.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Football ⚽</b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>oussamasobhi1@gmail.com</b></p>
+        <p>• 📫 How to reach me: <b>oussamasobhi21@gmail.com</b></p>
 </div><br>
 
 <div align="center">
